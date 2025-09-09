@@ -1,4 +1,12 @@
-## Hi there 👋
+# Danilo Erler Lima
+
+- Educador de Programação pela Prisma Tech
+- Estudante de desenvolvimento de jogos
+- Apaixonado por Tecnologia
+
+[Acesse meu Perfil Pessoal](https://github.com/daniloelima)
+
+
 
 <!--
 **DaniloErler/DaniloErler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
