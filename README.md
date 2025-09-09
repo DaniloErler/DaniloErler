@@ -2,10 +2,10 @@
 
 - Educador de Programação pela Prisma Tech
 - Estudante de desenvolvimento de jogos
-- Apaixonado por Tecnologia
 
 [Acesse meu Perfil Pessoal](https://github.com/daniloelima)
 
+Bebam Agua
 
 
 <!--
