@@ -1,24 +1,13 @@
-# Danilo Erler Lima
+# Danilo Lima
 
-- Educador de Programação pela Prisma Tech
-- Estudante de desenvolvimento de jogos
+- Educador da empresa Tech Prisma
 
-[Acesse meu Perfil Pessoal](https://github.com/daniloelima)
+- Formado em Ciência da Computação pela Universidade Federal do Espírito Santo (UFES)
 
-Bebam Agua
+- Estudante de Programação e Tecnologias
 
-
-<!--
-**DaniloErler/DaniloErler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br>
+<div style="display: inline-block;">
+  <img align="left" width="200" src="https://i.pinimg.com/originals/75/c3/db/75c3db10bf3d8cb90a128ab5fa708c8f.gif"/>
+</div>
