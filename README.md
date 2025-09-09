@@ -3,9 +3,7 @@
 - Educador da empresa Tech Prisma
 
 - Formado em Ciência da Computação pela Universidade Federal do Espírito Santo (UFES)
-
-- Estudante de Programação e Tecnologias
-
+ 
 ---
 <br>
 <div style="display: inline-block;">
